@@ -28,6 +28,18 @@ $dictionary = [
 		"solve" => "Solving Problems",
 		"solve-p" => "Working as a strong team, we can transform what you seek in the production and designing sector to a tangible identity & products therefor we challenge ourselves to get you the best quality services and cost effective prices.",
 
+		//Services
+		"design" => "design",
+		"print" => "print",
+		"social media" => "social media",
+		"design-p" => "Brand Identity is a visual system of branded elements that work together to identify your business",
+		"print-p" => "At THREE, we use our knowledge and expertise in this field to build the right style of packaging with the correct type of materials.",
+		"social media-p" => "Lorem ipsum dolor sit amet, 
+							consectetur adipiscing elit, 
+							sed do eiusmod tempor 
+							incididunt ut labore et dolore 
+							magna aliqua.",
+
 		//Footer
 		"contact-us" => "Contact us",
 		"portfolio" => "Portfolio",
